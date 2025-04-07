@@ -64,7 +64,7 @@
   text-align: center;
   font-weight: 400;
   font-family: "Fraunces", serif;
-  font-size: 100px;
+  font-size: 70px;
 }
 
 /* Container Parallax 2 */
@@ -106,7 +106,7 @@
 /* Container Parallax 4 */
 .container-parallax4 {
   background-image: url("./assets/img/parallax-imagem4.png");
-  height: 100vh;
+  height: 130vh;
 }
 
 .container-parallax4 h2 {
@@ -128,7 +128,7 @@
 .container-parallax4 iframe {
   position: absolute;
   max-width: 1024px;
-  height: 450px;
+  height: 900px;
   top: 25%;
   left: 0;
   right: 0;
